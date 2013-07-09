@@ -1,0 +1,1 @@
+Library with misc useful classes and/or code snippets for Android
